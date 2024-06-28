@@ -1,4 +1,4 @@
-module client-server-api
+module github.com/allsou/pos-goexpert/tree/master/client-server-api/server
 
 go 1.22.4
 

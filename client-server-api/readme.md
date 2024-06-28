@@ -24,6 +24,6 @@ O endpoint necessário gerado pelo server.go para este desafio será: /cotacao e
 
 ## Execução
 
-Para executar o projeto, basta rodar o comando `go run server.go` e em seguida `go run client.go`.
+Para executar o projeto, basta rodar o comando `go run server/server.go` e em seguida `go run client/client.go`.
 
 Ao executar serão criados os arquivos `cotacao.txt` e `cotacao.db` com os valores da cotação do dólar, sendo respectivamente o arquivo no padrão sugerido e o banco de dados SQLite.
